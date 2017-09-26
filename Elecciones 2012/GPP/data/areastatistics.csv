@@ -1,0 +1,355 @@
+id,estado,municipio,candidato_1,adjudicado_1,votos_1,%_1,candidato_2,adjudicado_2,votos_2,%_2,tono,tono_2
+130300,Miranda,Miranda - Municipio Guaicaipuro,Elías Jaua (GPP),No adjudicado,57.298,51.86,Henrique Capriles (MUD),Adjudicado,52.834,47.82,5,5
+130100,Miranda,Miranda - Municipio Acevedo,Elías Jaua (GPP),No adjudicado,20.158,64.66,Henrique Capriles (MUD),Adjudicado,10.937,35.08,6,3
+131400,Miranda,Miranda - Municipio Andrés Bello,Elías Jaua (GPP),No adjudicado,6.257,64.81,Henrique Capriles (MUD),Adjudicado,3.343,34.63,6,3
+131600,Miranda,Miranda - Municipio Baruta,Henrique Capriles (MUD),Adjudicado,110.917,81.83,Elías Jaua (GPP),No adjudicado,24.468,18.05,1,8
+130200,Miranda,Miranda - Municipio Brión,Elías Jaua (GPP),No adjudicado,14.446,61.43,Henrique Capriles (MUD),Adjudicado,8.962,38.11,6,3
+132000,Miranda,Miranda - Municipio Buroz,Elías Jaua (GPP),No adjudicado,6.657,67.97,Henrique Capriles (MUD),Adjudicado,3.122,31.87,6,3
+131700,Miranda,Miranda - Municipio Carrizal,Henrique Capriles (MUD),Adjudicado,12.288,55.71,Elías Jaua (GPP),No adjudicado,9.663,43.81,4,5
+131800,Miranda,Miranda - Municipio Chacao,Henrique Capriles (MUD),Adjudicado,38.552,84.62,Elías Jaua (GPP),No adjudicado,6.931,15.22,1,8
+131200,Miranda,Miranda - Municipio Cristóbal Rojas,Elías Jaua (GPP),No adjudicado,27.835,62.80,Henrique Capriles (MUD),Adjudicado,16.329,36.84,6,3
+131900,Miranda,Miranda - Municipio El Hatillo,Henrique Capriles (MUD),Adjudicado,263.49,84.20,Elías Jaua (GPP),No adjudicado,4.915,15.70,1,8
+130400,Miranda,Miranda - Municipio Independencia,Elías Jaua (GPP),No adjudicado,36.621,71.83,Henrique Capriles (MUD),Adjudicado,14.240,27.93,7,2
+130500,Miranda,Miranda - Municipio Lander,Elías Jaua (GPP),No adjudicado,37.283,72.68,Henrique Capriles (MUD),Adjudicado,13.894,27.08,7,2
+131300,Miranda,Miranda - Municipio Los Salias,Henrique Capriles (MUD),Adjudicado,28.179,77.20,Elías Jaua (GPP),No adjudicado,8.216,22.50,2,7
+130600,Miranda,Miranda - Municipio Páez,Elías Jaua (GPP),No adjudicado,10.120,62.67,Henrique Capriles (MUD),Adjudicado,6.002,37.17,6,3
+130700,Miranda,Miranda - Municipio Paz Castillo,Elías Jaua (GPP),No adjudicado,26.668,75.36,Henrique Capriles (MUD),Adjudicado,8.615,24.34,7,2
+132100,Miranda,Miranda - Municipio Pedro Gual,Elías Jaua (GPP),No adjudicado,4.626,59.59,Henrique Capriles (MUD),Adjudicado,3.135,40.38,5,4
+130800,Miranda,Miranda - Municipio Plaza,Elías Jaua (GPP),No adjudicado,47.225,58.14,Henrique Capriles (MUD),Adjudicado,33.768,41.57,5,4
+131500,Miranda,Miranda - Municipio Simón Bolívar,Elías Jaua (GPP),No adjudicado,11.198,71.47,Henrique Capriles (MUD),Adjudicado,4.452,28.41,7,2
+130900,Miranda,Miranda - Municipio Sucre,Henrique Capriles (MUD),Adjudicado,137.447,54.95,Elías Jaua (GPP),No adjudicado,111.454,44.55,4,5
+131000,Miranda,Miranda - Municipio Urdaneta,Elías Jaua (GPP),No adjudicado,29.879,63.79,Henrique Capriles (MUD),Adjudicado,16.602,35.44,6,3
+131100,Miranda,Miranda - Municipio Zamora,Elías Jaua (GPP),No adjudicado,36.631,51.74,Henrique Capriles (MUD),Adjudicado,33.693,47.59,5,4
+220100,Amazonas,Amazonas - Municipio Atures,Liborio Guarulla (MUD),Adjudicado,26.845,57.91,Nicia Maldonado (GPP),No adjudicado,17.354,37.44,3
+220200,Amazonas,Amazonas - Municipio Atabapo,Liborio Guarulla (MUD),Adjudicado,2.219,58.28,Nicia Maldonado (GPP),No adjudicado,1.444,37.39,3
+220300,Amazonas,Amazonas - Municipio Maroa,Nicia Maldonado (GPP),No adjudicado,911,58.81,Liborio Guarulla (MUD),Adjudicado,637,41.12,5
+220400,Amazonas,Amazonas - Municipio Río Negro,Nicia Maldonado (GPP),No adjudicado,807,54.89,Liborio Guarulla (MUD),Adjudicado,649,44.14,5
+220500,Amazonas,Amazonas - Municipio Autana,Liborio Guarulla (MUD),Adjudicado,2.661,58.54,Nicia Maldonado (GPP),No adjudicado,1.508,33.17,3
+220600,Amazonas,Amazonas - Municipio Manapiare,Gregorio Mirabal (MAS),No adjudicado,1.278,38.73,Liborio Guarulla (MUD),Adjudicado,1.050,31.82,2
+220700,Amazonas,Amazonas - Municipio Alto Orinoco,Nicia Maldonado (GPP),No adjudicado,1.883,59.23,Liborio Guarulla (MUD),Adjudicado,1.267,39.85,5
+20300,Anzoátegui,Anzoátegui - Municipio Bolívar,Aristóbulo Istúriz (GPP),Adjudicado,76.163,56.73,Antonio Barreto Sira (MUD),No adjudicado,56.913,42.39,5
+20100,Anzoátegui,Anzoátegui - Municipio Anaco,Aristóbulo Istúriz (GPP),Adjudicado,25.720,56.06,Antonio Barreto Sira (MUD),No adjudicado,19.813,43.18,5
+20200,Anzoátegui,Anzoátegui - Municipio Aragua,Aristóbulo Istúriz (GPP),Adjudicado,7.663,63.95,Antonio Barreto Sira (MUD),No adjudicado,4.286,35.77,6
+20400,Anzoátegui,Anzoátegui - Municipio Bruzual,Aristóbulo Istúriz (GPP),Adjudicado,6.411,58.14,Antonio Barreto Sira (MUD),No adjudicado,4.552,41.28,5
+20500,Anzoátegui,Anzoátegui - Municipio Cajigal,Aristóbulo Istúriz (GPP),Adjudicado,3.850,71.28,Antonio Barreto Sira (MUD),No adjudicado,1.542,28.55,7
+21800,Anzoátegui,Anzoátegui - Municipio Carvajal,Aristóbulo Istúriz (GPP),Adjudicado,3.552,67.09,Antonio Barreto Sira (MUD),No adjudicado,1.725,32.58,6
+20600,Anzoátegui,Anzoátegui - Municipio Freites,Aristóbulo Istúriz (GPP),Adjudicado,17.366,53.00,Antonio Barreto Sira (MUD),No adjudicado,15.287,46.65,5
+21400,Anzoátegui,Anzoátegui - Municipio Guanipa,Aristóbulo Istúriz (GPP),Adjudicado,16.488,62.56,Antonio Barreto Sira (MUD),No adjudicado,9.663,36.66,6
+21500,Anzoátegui,Anzoátegui - Municipio Guanta,Aristóbulo Istúriz (GPP),Adjudicado,8.511,63.06,Antonio Barreto Sira (MUD),No adjudicado,4.913,36.40,6
+20700,Anzoátegui,Anzoátegui - Municipio Independencia,Aristóbulo Istúriz (GPP),Adjudicado,7.826,72.26,Antonio Barreto Sira (MUD),No adjudicado,2.946,27.20,7
+21700,Anzoátegui,Anzoátegui - Municipio Diego Bautista,Antonio Barreto Sira (MUD),No adjudicado,15.347,78.89,Aristóbulo Istúriz (GPP),Adjudicado,4.016,20.64,2
+20800,Anzoátegui,Anzoátegui - Municipio Libertad,Aristóbulo Istúriz (GPP),Adjudicado,4.563,69.57,Antonio Barreto Sira (MUD),No adjudicado,2.946,27.20,6
+22200,Anzoátegui,Anzoátegui - Municipio Mc Gregor,Aristóbulo Istúriz (GPP),Adjudicado,3.084,77.56,Antonio Barreto Sira (MUD),No adjudicado,891,22.40,7
+20900,Anzoátegui,Anzoátegui - Municipio Miranda,Aristóbulo Istúriz (GPP),Adjudicado,9.856,62.55,Antonio Barreto Sira (MUD),No adjudicado,5.826,36.97,6
+21000,Anzoátegui,Anzoátegui - Municipio Monagas,Aristóbulo Istúriz (GPP),Adjudicado,5.336,71.25,Antonio Barreto Sira (MUD),No adjudicado,2.124,28.36,7
+21100,Anzoátegui,Anzoátegui - Municipio Peñalver,Aristóbulo Istúriz (GPP),Adjudicado,6.357,55.91,Antonio Barreto Sira (MUD),No adjudicado,4.933,43.38,5
+21600,Anzoátegui,Anzoátegui - Municipio Píritu,Aristóbulo Istúriz (GPP),Adjudicado,5.686,60.59,Antonio Barreto Sira (MUD),No adjudicado,3.618,38.55,6
+21900,Anzoátegui,Anzoátegui - Municipio Santa Ana,Aristóbulo Istúriz (GPP),Adjudicado,2.564,56.57,Antonio Barreto Sira (MUD),No adjudicado,1.952,43.07,5
+21200,Anzoátegui,Anzoátegui - Municipio Simón Rodríguez,Aristóbulo Istúriz (GPP),Adjudicado,31.796,54.73,Antonio Barreto Sira (MUD),No adjudicado,26.020,44.79,5
+21300,Anzoátegui,Anzoátegui - Municipio Sotillo,Aristóbulo Istúriz (GPP),Adjudicado,43.985,53.99,Antonio Barreto Sira (MUD),No adjudicado,367.39,45.10,5
+22100,Anzoátegui,Anzoátegui - Municipio Juan Capistrano,Aristóbulo Istúriz (GPP),Adjudicado,1.960,61.26,Antonio Barreto Sira (MUD),No adjudicado,1.223,38.23,6
+40100,Aragua,Aragua - Municipio Girardot,Richard Mardo (MUD),No adjudicado,10.2884,53.26,Tareck El Aissami (GPP),Adjudicado,88.406,46.08,4
+41100,Aragua,Aragua - Municipio Bolívar,Tareck El Aissami (GPP),Adjudicado,9.496,67.52,Richard Mardo (MUD),No adjudicado,4.548,32.34,6
+41500,Aragua,Aragua - Municipio Camatagua,Tareck El Aissami (GPP),Adjudicado,4.519,72.76,Richard Mardo (MUD),No adjudicado,1.688,27.18,7
+41000,Aragua,Aragua - Municipio José Ángel Lamas,Tareck El Aissami (GPP),Adjudicado,7.868,59.68,Richard Mardo (MUD),No adjudicado,5.288,40.11,6
+40300,Aragua,Aragua - Municipio José Félix Ribas,Tareck El Aissami (GPP),Adjudicado,30.581,57.81,Richard Mardo (MUD),No adjudicado,22.171,41.91,5
+41600,Aragua,Aragua - Municipio Jose Rafael Revenga,Tareck El Aissami (GPP),Adjudicado,11.644,74.85,Richard Mardo (MUD),No adjudicado,30883,24.96,7
+40900,Aragua,Aragua - Municipio Libertador,Tareck El Aissami (GPP),Adjudicado,18.682,59.32,Richard Mardo (MUD),No adjudicado,12.613,40.05,5
+41300,Aragua,Aragua - Municipio Mario Briceño Iragorry,Richard Mardo (MUD),No adjudicado,25.003,53.23,Tareck El Aissami (GPP),Adjudicado,21.785,46.38,4
+40400,Aragua,Aragua - Municipio San Casimiro,Tareck El Aissami (GPP),Adjudicado,6.356,69.54,Richard Mardo (MUD),No adjudicado,2.779,30.40,6
+40500,Aragua,Aragua - Municipio San Sebastián,Tareck El Aissami (GPP),Adjudicado,4.707,59.94,Richard Mardo (MUD),No adjudicado,3.136,39.93,5
+40200,Aragua,Aragua - Municipio Santiago Mariño,Tareck El Aissami (GPP),Adjudicado,37.624,56.62,Richard Mardo (MUD),No adjudicado,28.743,43.25,5
+41200,Aragua,Aragua - Municipio Santos Michelena,Tareck El Aissami (GPP),Adjudicado,9.599,81.40,Richard Mardo (MUD),No adjudicado,2.170,18.40,8
+40600,Aragua,Aragua - Municipio Sucre,Tareck El Aissami (GPP),Adjudicado,22.554,53.41,Richard Mardo (MUD),No adjudicado,19.615,46.45,5
+41400,Aragua,Aragua - Municipio Tovar,Tareck El Aissami (GPP),Adjudicado,3.034,63.91,Richard Mardo (MUD),No adjudicado,1.702,35.85,6
+40700,Aragua,Aragua - Municipio Urdaneta,Tareck El Aissami (GPP),Adjudicado,5.955,73.60,Richard Mardo (MUD),No adjudicado,2.113,26.11,7
+40800,Aragua,Aragua - Municipio ZaMora,Tareck El Aissami (GPP),Adjudicado,28.338,63.37,Richard Mardo (MUD),No adjudicado,16.322,36.50,6
+41700,Aragua,Aragua - Municipio Francisco Linares,Tareck El Aissami (GPP),Adjudicado,27.601,65.02,Richard Mardo (MUD),No adjudicado,14.699,34.62,6
+41800,Aragua,Aragua - Municipio Ocumare de la Costa,Tareck El Aissami (GPP),Adjudicado,2.567,56.07,Richard Mardo (MUD),No adjudicado,2.010,43.90,5
+50200,Barinas,Barinas - Municipio Barinas,Julio César Reyes (MUD),No adjudicado,55892,51.64,Adán Chávez (GPP),Adjudicado,52283,48.30,4
+51000,Barinas,Barinas - Municipio Antonio José de Sucre,Adán Chávez (GPP),Adjudicado,10976,57.52,Julio César Reyes (MUD),No adjudicado,8099,42.44,5
+50900,Barinas,Barinas - Municipio Alberto Arvelo T,Adán Chávez (GPP),Adjudicado,11338,81.60,Julio César Reyes (MUD),No adjudicado,2554,18.38,8
+51200,Barinas,Barinas - Municipio Andrés Eloy Blanco,Adán Chávez (GPP),Adjudicado,4405,78.91,Julio César Reyes (MUD),No adjudicado,1177,21.08,7
+50100,Barinas,Barinas - Municipio Arismendi,Adán Chávez (GPP),Adjudicado,5039,78.01,Julio César Reyes (MUD),No adjudicado,1420,21.98,7
+50300,Barinas,Barinas - Municipio Bolívar,Adán Chávez (GPP),Adjudicado,10409,59.57,Julio César Reyes (MUD),No adjudicado,7056,40.38,5
+51100,Barinas,Barinas - Municipio Cruz Paredes,Adán Chávez (GPP),Adjudicado,6435,69.35,Julio César Reyes (MUD),No adjudicado,2843,30.63,6
+50400,Barinas,Barinas - Municipio Ezequiel Zamora,Adán Chávez (GPP),Adjudicado,9458,58.31,Julio César Reyes (MUD),No adjudicado,6761,41.68,5
+50500,Barinas,Barinas - Municipio Obispos,Adán Chávez (GPP),Adjudicado,7450,67.51,Julio César Reyes (MUD),No adjudicado,3581,32.45,6
+50600,Barinas,Barinas - Municipio Pedraza,Adán Chávez (GPP),Adjudicado,10904,58.19,Julio César Reyes (MUD),No adjudicado,7829,41.78,5
+50700,Barinas,Barinas - Municipio Rojas,Adán Chávez (GPP),Adjudicado,8965,68.71,Julio César Reyes (MUD),No adjudicado,4081,31.27,6
+50800,Barinas,Barinas - Municipio Sosa,Adán Chávez (GPP),Adjudicado,5536,66.77,Julio César Reyes (MUD),No adjudicado,2753,33.20,6
+60300,Bolívar,Bolívar - Municipio Heres,Andrés Velásquez (MUD),No adjudicado,51629,52.06,Francisco Rangel (GPP),No adjudicado,38112,38.43,3
+60800,Bolívar,Bolívar - Municipio Angostura,Francisco Rangel (GPP),No adjudicado,5569,57.15,Andrés Velásquez (MUD),No adjudicado,3858,39.59,5
+60100,Bolívar,Bolívar - Municipio Caroní,Francisco Rangel (GPP),No adjudicado,84285,46.54,Andrés Velásquez (MUD),No adjudicado,74253,41.00,4
+60200,Bolívar,Bolívar - Municipio Cedeño,Francisco Rangel (GPP),No adjudicado,10304,66.29,Andrés Velásquez (MUD),No adjudicado,4697,30.21,6
+61000,Bolívar,Bolívar - Municipio El Callao,Francisco Rangel (GPP),No adjudicado,2694,49.58,Andrés Velásquez (MUD),No adjudicado,2596,47.78,4
+60900,Bolívar,Bolívar - Municipio Gran Sabana,Francisco Rangel (GPP),No adjudicado,3222,50.69,Andrés Velásquez (MUD),No adjudicado,2775,43.65,5
+60400,Bolívar,Bolívar - Municipio Piar,Andrés Velásquez (MUD),No adjudicado,13340,47.54,Francisco Rangel (GPP),No adjudicado,13041,46.48,4
+60500,Bolívar,Bolívar - Municipio Roscio,Francisco Rangel (GPP),No adjudicado,4237,60.24,Andrés Velásquez (MUD),No adjudicado,2683,38.14,6
+60700,Bolívar,Bolívar - Municipio Sifontes,Francisco Rangel (GPP),No adjudicado,4764,54.17,Andrés Velásquez (MUD),No adjudicado,3604,40.98,5
+60600,Bolívar,Bolívar - Municipio Sucre,Francisco Rangel (GPP),No adjudicado,3980,64.90,Andrés Velásquez (MUD),No adjudicado,1780,29.02,6
+61100,Bolívar,Bolívar - Municipio Padre Pedro Chien,Francisco Rangel (GPP),No adjudicado,173536,46.55,Andrés Velásquez (MUD),No adjudicado,2050,37.77,4
+70900,Carabobo,Carabobo - Municipio Valencia,Francisco Ameliach (GPP),Adjudicado,141849,49.82,Henrique Salas Feo (MUD),No adjudicado,140781,49.45,4
+70100,Carabobo,Carabobo - Municipio Bejuma,Francisco Ameliach (GPP),Adjudicado,8539,57.54,Henrique Salas Feo (MUD),No adjudicado,6233,42.00,5
+70200,Carabobo,Carabobo - Municipio Carlos Arvelo,Francisco Ameliach (GPP),Adjudicado,31375,72.05,Henrique Salas Feo (MUD),No adjudicado,12006,27.57,7
+70300,Carabobo,Carabobo - Municipio Diego Ibarra,Francisco Ameliach (GPP),Adjudicado,20823,69.23,Henrique Salas Feo (MUD),No adjudicado,9075,30.17,6
+70400,Carabobo,Carabobo - Municipio Guacara,Francisco Ameliach (GPP),Adjudicado,31725,56.02,Henrique Salas Feo (MUD),No adjudicado,24637,43.50,5
+70600,Carabobo,Carabobo - Municipio San José Mora,Francisco Ameliach (GPP),Adjudicado,16441,71.36,Henrique Salas Feo (MUD),No adjudicado,6432,27.92,7
+71400,Carabobo,Carabobo - Municipio Libertador,Francisco Ameliach (GPP),Adjudicado,33137,68.23,Henrique Salas Feo (MUD),No adjudicado,15151,31.19,6
+71100,Carabobo,Carabobo - Municipio Los Guayos,Francisco Ameliach (GPP),Adjudicado,29435,66.19,Henrique Salas Feo (MUD),No adjudicado,14724,33.11,6
+71000,Carabobo,Carabobo - Municipio Miranda,Francisco Ameliach (GPP),Adjudicado,6309,69.65,Henrique Salas Feo (MUD),No adjudicado,2722,30.05,6
+70500,Carabobo,Carabobo - Municipio Montalbán,Francisco Ameliach (GPP),Adjudicado,5055,56.78,Henrique Salas Feo (MUD),No adjudicado,3802,42.70,5
+71200,Carabobo,Carabobo - Municipio Naguanagua,Henrique Salas Feo (MUD),No adjudicado,29641,56.16,Francisco Ameliach (GPP),Adjudicado,22723,43.05,4
+70700,Carabobo,Carabobo - Municipio Puerto Cabello,Francisco Ameliach (GPP),Adjudicado,39382,61.94,Henrique Salas Feo (MUD),No adjudicado,23747,37.35,6
+71300,Carabobo,Carabobo - Municipio San Diego,Henrique Salas Feo (MUD),No adjudicado,23303,67.86,Francisco Ameliach (GPP),Adjudicado,10805,31.46,6
+70800,Carabobo,Carabobo - Municipio San Joaquín,Francisco Ameliach (GPP),Adjudicado,10841,59.25,Henrique Salas Feo (MUD),No adjudicado,7365,40.25,5
+80600,Cojedes,Cojedes - Municipio Ezequiel Zamora,Erika Farías (GPP),Adjudicado,22700,59.92,Alberto Galíndez (MUD),No adjudicado,14925,39.40,5
+80100,Cojedes,Cojedes - Municipio Anzoátegui,Erika Farías (GPP),Adjudicado,4566,72.21,Alberto Galíndez (MUD),No adjudicado,1747,27.62,7
+80300,Cojedes,Cojedes - Municipio Girardot,Erika Farías (GPP),Adjudicado,3689,72.02,Alberto Galíndez (MUD),No adjudicado,1427,27.86,7
+80800,Cojedes,Cojedes - Municipio Lima Blanco,Erika Farías (GPP),Adjudicado,3326,63.97,Alberto Galíndez (MUD),No adjudicado,1844,35.46,6
+80400,Cojedes,Cojedes - Municipio Pao San Juan Bautista,Erika Farías (GPP),Adjudicado,5419,74.94,Alberto Galíndez (MUD),No adjudicado,1805,24.96,7
+80500,Cojedes,Cojedes - Municipio Ricaurte,Erika Farías (GPP),Adjudicado,4946,81.71,Alberto Galíndez (MUD),No adjudicado,1092,18.04,8
+80900,Cojedes,Cojedes - Municipio Rómulo Gallegos,Erika Farías (GPP),Adjudicado,5024,68.14,Alberto Galíndez (MUD),No adjudicado,2313,31.37,6
+80700,Cojedes,Cojedes - Municipio Tinaco,Erika Farías (GPP),Adjudicado,7567,62.66,Alberto Galíndez (MUD),No adjudicado,4445,36.80,6
+80200,Cojedes,Cojedes - Municipio Tinaquillo,Erika Farías (GPP),Adjudicado,18146,57.44,Alberto Galíndez (MUD),No adjudicado,13222,41.86,5
+230100,Delta Amacuro,Delta Amacuro - Municipio Tucupita,Lizeta Hernández (GPP),Adjudicado,21719,74.83,Arévalo Salazar (MUD),No adjudicado,6664,22.89,7
+230300,Delta Amacuro,Delta Amacuro - Municipio Antonio Díaz,Lizeta Hernández (GPP),Adjudicado,9897,96.97,Arévalo Salazar (MUD),No adjudicado,264,2.58,9
+230400,Delta Amacuro,Delta Amacuro - Municipio Casacoima,Lizeta Hernández (GPP),Adjudicado,6129,81.69,Arévalo Salazar (MUD),No adjudicado,1122,14.95,8
+230200,Delta Amacuro,Delta Amacuro - Municipio Pedernales,Lizeta Hernández (GPP),Adjudicado,4292,95.78,Arévalo Salazar (MUD),No adjudicado,183,4.08,9
+30600,Apure,Apure - Municipio San Fernando,Ramón Carrizales (GPP),Adjudicado,34325,61.39,Luis Lippa (MUD),No adjudicado,15062,26.94,6
+30100,Apure,Apure - Municipio Achaguas,Ramón Carrizales (GPP),Adjudicado,13524,69.10,Luis Lippa (MUD),No adjudicado,3067,15.67,6
+30700,Apure,Apure - Municipio Biruaca,Ramón Carrizales (GPP),Adjudicado,11157,62.59,Luis Lippa (MUD),No adjudicado,4299,24.12,6
+30200,Apure,Apure - Municipio Muñoz,Ramón Carrizales (GPP),Adjudicado,8252,77.15,Luis Lippa (MUD),No adjudicado,1471,13.75,7
+30300,Apure,Apure - Municipio Páez,Ramón Carrizales (GPP),Adjudicado,14776,57.51,Luis Lippa (MUD),No adjudicado,5718,22.25,5
+30400,Apure,Apure - Municipio Pedro Camejo,Ramón Carrizales (GPP),Adjudicado,6664,68.82,Luis Lippa (MUD),No adjudicado,2196,22.68,6
+30500,Apure,Apure - Municipio Rómulo Gallegos,Ramón Carrizales (GPP),Adjudicado,5414,58.29,Leopoldo Estrada (Tupamaro),No adjudicado,2685,28.91,5
+91000,Falcón,Falcón - Municipio Miranda,Gregorio Graterol (MUD),No adjudicado,29537,39.75,Stella Lugo (GPP),Adjudicado,26123,35.15,3
+90100,Falcón,Falcón - Municipio Acosta,Stella Lugo (GPP),Adjudicado,3240,56.10,Gregorio Graterol (MUD),No adjudicado,2157,37.35,6
+90200,Falcón,Falcón - Municipio Bolívar,Stella Lugo (GPP),Adjudicado,2583,60.28,Gregorio Graterol (MUD),No adjudicado,983,22.94,6
+90300,Falcón,Falcón - Municipio Buchivacoa,Stella Lugo (GPP),Adjudicado,6487,68.82,Gregorio Graterol (MUD),No adjudicado,2777,29.46,6
+92100,Falcón,Falcón - Municipio Cacique Manaure,Stella Lugo (GPP),Adjudicado,1864,50.55,Gregorio Graterol (MUD),No adjudicado,1634,44.34,5
+90400,Falcón,Falcón - Municipio Carirubana,Stella Lugo (GPP),Adjudicado,39973,52.73,Gregorio Graterol (MUD),No adjudicado,29218,38.54,5
+90500,Falcón,Falcón - Municipio Colina,Stella Lugo (GPP),Adjudicado,5771,44.30,Gregorio Graterol (MUD),No adjudicado,4948,37.98,4
+91400,Falcón,Falcón - Municipio Dabajuro,Stella Lugo (GPP),Adjudicado,5151,67.01,Gregorio Graterol (MUD),No adjudicado,2314,30.10,6
+90600,Falcón,Falcón - Municipio Democracia,Stella Lugo (GPP),Adjudicado,3499,70.64,Gregorio Graterol (MUD),No adjudicado,1285,25.94,7
+90700,Falcón,Falcón - Municipio Falcón,Stella Lugo (GPP),Adjudicado,9710,54.73,Gregorio Graterol (MUD),No adjudicado,6626,37.35,5
+90800,Falcón,Falcón - Municipio Federación,Stella Lugo (GPP),Adjudicado,4866,54.28,Gregorio Graterol (MUD),No adjudicado,3403,37.96,5
+92000,Falcón,Falcón - Municipio Jacura,Stella Lugo (GPP),Adjudicado,2413,64.41,Gregorio Graterol (MUD),No adjudicado,1274,34.00,6
+91600,Falcón,Falcón - Municipio Los Taques,Stella Lugo (GPP),Adjudicado,9262,56.63,Gregorio Graterol (MUD),No adjudicado,6012,36.75,5
+90900,Falcón,Falcón - Municipio Mauroa,Stella Lugo (GPP),Adjudicado,5355,67.86,Gregorio Graterol (MUD),No adjudicado,2276,28.84,6
+91500,Falcón,Falcón - Municipio Monseñor Iturriza,Stella Lugo (GPP),Adjudicado,2813,57.23,Gregorio Graterol (MUD),No adjudicado,1966,4,5
+92200,Falcón,Falcón - Municipio Palmasola,Stella Lugo (GPP),Adjudicado,2011,94.14,Gregorio Graterol (MUD),No adjudicado,97,4.54,9
+91100,Falcón,Falcón - Municipio Petit,Stella Lugo (GPP),Adjudicado,3063,60.27,Gregorio Graterol (MUD),No adjudicado,1238,24.36,6
+91700,Falcón,Falcón - Municipio Píritu,Stella Lugo (GPP),Adjudicado,2631,64.31,Gregorio Graterol (MUD),No adjudicado,966,23.61,6
+91900,Falcón,Falcón - Municipio San Francisco,Stella Lugo (GPP),Adjudicado,2878,69.33,Gregorio Graterol (MUD),No adjudicado,1151,27.72,6
+91200,Falcón,Falcón - Municipio Silva,Stella Lugo (GPP),Adjudicado,3465,59.31,Gregorio Graterol (MUD),No adjudicado,2168,37.11,5
+92300,Falcón,Falcón - Municipio Sucre,Stella Lugo (GPP),Adjudicado,1874,57.51,Gregorio Graterol (MUD),No adjudicado,743,22.80,5
+92500,Falcón,Falcón - Municipio Tocopero,Stella Lugo (GPP),Adjudicado,1841,60.53,Gregorio Graterol (MUD),No adjudicado,672,22.09,6
+91800,Falcón,Falcón - Municipio Unión,Stella Lugo (GPP),Adjudicado,3077,59.87,Gregorio Graterol (MUD),No adjudicado,1441,28.04,5
+92400,Falcón,Falcón - Municipio Uramaco,Stella Lugo (GPP),Adjudicado,2747,66.56,Gregorio Graterol (MUD),No adjudicado,1197,29.00,6
+91300,Falcón,Falcón - Municipio Zamora,Stella Lugo (GPP),Adjudicado,4943,48.70,Gregorio Graterol (MUD),No adjudicado,3696,36.41,4
+100600,Guárico,Guárico - Municipio Roscio,Ramón Rodríguez Chacín (GPP),Adjudicado,25902,67.72,José Manuel González (MUD),No adjudicado,12315,32.19,6
+100800,Guárico,Guárico - Municipio Camaguan,Ramón Rodríguez Chacín (GPP),Adjudicado,4511,83.45,José Manuel González (MUD),No adjudicado,894,16.54,8
+101400,Guárico,Guárico - Municipio Chaguaramas,Ramón Rodríguez Chacín (GPP),Adjudicado,3764,83.81,José Manuel González (MUD),No adjudicado,727,16.18,8
+101100,Guárico,Guárico - Municipio El Socorro,Ramón Rodríguez Chacín (GPP),Adjudicado,5122,82.79,José Manuel González (MUD),No adjudicado,1064,17.20,8
+100100,Guárico,Guárico - Municipio Infante,Ramón Rodríguez Chacín (GPP),Adjudicado,21540,65.79,José Manuel González (MUD),No adjudicado,11188,34.17,6
+101000,Guárico,Guárico - Municipio Las Mercedes,Ramón Rodríguez Chacín (GPP),Adjudicado,5943,77.80,José Manuel González (MUD),No adjudicado,1693,22.16,7
+100200,Guárico,Guárico - Municipio Mellado,Ramón Rodríguez Chacín (GPP),Adjudicado,6094,82.77,José Manuel González (MUD),No adjudicado,1264,17.16,8
+100300,Guárico,Guárico - Municipio Miranda,Ramón Rodríguez Chacín (GPP),Adjudicado,24729,77.01,José Manuel González (MUD),No adjudicado,7373,22.96,7
+100400,Guárico,Guárico - Municipio Monagas,Ramón Rodríguez Chacín (GPP),Adjudicado,15358,76.98,José Manuel González (MUD),No adjudicado,4570,22.90,7
+101200,Guárico,Guárico - Municipio Ortiz,Ramón Rodríguez Chacín (GPP),Adjudicado,5436,85.71,José Manuel González (MUD),No adjudicado,900,14.19,8
+100500,Guárico,Guárico - Municipio Ribas,Ramón Rodríguez Chacín (GPP),Adjudicado,8114,76.48,José Manuel González (MUD),No adjudicado,2494,23.51,7
+101300,Guárico,Guárico - Municipio Santa María de Ipire,Ramón Rodríguez Chacín (GPP),Adjudicado,3751,86.03,José Manuel González (MUD),No adjudicado,609,13.96,8
+100700,Guárico,Guárico - Municipio Zaraza,Ramón Rodríguez Chacín (GPP),Adjudicado,10957,76.14,José Manuel González (MUD),No adjudicado,3427,23.81,7
+100900,Guárico,Guárico - Municipio San José de Guaribe,Ramón Rodríguez Chacín (GPP),Adjudicado,2477,77.79,José Manuel González (MUD),No adjudicado,707,22.20,7
+101500,Guárico,Guárico - Municipio San Gerónimo de G,Ramón Rodríguez Chacín (GPP),Adjudicado,4747,83.50,José Manuel González (MUD),No adjudicado,938,16.49,8
+110200,Lara,Lara - Municipio Iribarren,Henri Falcón (MUD),Adjudicado,228018,58.96,Luis Reyes (GPP),No adjudicado,157576,40.75,4
+110800,Lara,Lara - Municipio Andrés Eloy Blanco,Luis Reyes (GPP),No adjudicado,10040,64.38,Henri Falcón (MUD),Adjudicado,5529,35.45,6
+110100,Lara,Lara - Municipio Crespo,Luis Reyes (GPP),No adjudicado,8888,50.42,Henri Falcón (MUD),Adjudicado,8696,49.33,5
+110300,Lara,Lara - Municipio Jiménez,Luis Reyes (GPP),No adjudicado,18079,52.58,Henri Falcón (MUD),Adjudicado,12847,41.42,5
+110400,Lara,Lara - Municipio Morán,Luis Reyes (GPP),No adjudicado,24934,61.40,Henri Falcón (MUD),Adjudicado,15601,38.42,6
+110500,Lara,Lara - Municipio Palavecino,Henri Falcón (MUD),Adjudicado,41870,66.79,Luis Reyes (GPP),No adjudicado,20650,32.94,3
+110900,Lara,Lara - Municipio Simón Planas,Luis Reyes (GPP),No adjudicado,8115,69.75,Henri Falcón (MUD),Adjudicado,3492,30.01,6
+110600,Lara,Lara - Municipio Torres,Luis Reyes (GPP),No adjudicado,35149,55.16,Henri Falcón (MUD),Adjudicado,28413,44.59,5
+110700,Lara,Lara - Municipio Urdaneta,Luis Reyes (GPP),No adjudicado,16643,67.45,Henri Falcón (MUD),Adjudicado,8012,32.47,6
+120800,Mérida,Mérida - Municipio Libertador,Lester Rodríguez (MUD),No adjudicado,47390,51.78,Alexis Ramírez (GPP),Adjudicado,31326,34.23,3
+120100,Mérida,Mérida - Municipio Alberto Adriani,Alexis Ramírez (GPP),Adjudicado,23332,59.05,Lester Rodríguez (MUD),No adjudicado,13249,33.53,5
+120200,Mérida,Mérida - Municipio Andrés Bello,Alexis Ramírez (GPP),Adjudicado,4178,70.87,Lester Rodríguez (MUD),No adjudicado,1469,24.91,7
+121100,Mérida,Mérida - Municipio Antonio Pinto,Alexis Ramírez (GPP),Adjudicado,6482,60.35,Lester Rodríguez (MUD),No adjudicado,3334,31.04,6
+122200,Mérida,Mérida - Municipio Acarigua,Lester Rodríguez (MUD),No adjudicado,1312,53.24,Alexis Ramírez (GPP),Adjudicado,1029,41.76,5
+120300,Mérida,Mérida - Municipio Arzobispo Chacon,Alexis Ramírez (GPP),Adjudicado,3730,60.01,Lester Rodríguez (MUD),No adjudicado,2244,36.10,6
+120400,Mérida,Mérida - Municipio Campo Elías,Alexis Ramírez (GPP),Adjudicado,16236,49.93,Lester Rodríguez (MUD),No adjudicado,11868,36.50,6
+121300,Mérida,Mérida - Municipio Caracciolo Parra,Alexis Ramírez (GPP),Adjudicado,4774,63.10,Lester Rodríguez (MUD),No adjudicado,2146,28.36,6
+120500,Mérida,Mérida - Municipio Guaraque,Alexis Ramírez (GPP),Adjudicado,2676,60.80,Lester Rodríguez (MUD),No adjudicado,1667,37.87,6
+120700,Mérida,Mérida - Municipio Justo Briceño,Alexis Ramírez (GPP),Adjudicado,1592,55.12,Lester Rodríguez (MUD),No adjudicado,944,32.68,5
+121000,Mérida,Mérida - Municipio Miranda,Alexis Ramírez (GPP),Adjudicado,4396,57.72,Lester Rodríguez (MUD),No adjudicado,2692,35.34,5
+122100,Mérida,Mérida - Municipio Padre Noguera,Alexis Ramírez (GPP),Adjudicado,888,59.23,Lester Rodríguez (MUD),No adjudicado,481,32.08,5
+121500,Mérida,Mérida - Municipio Pueblo Llano,Alexis Ramírez (GPP),Adjudicado,2165,64.51,Lester Rodríguez (MUD),No adjudicado,1147,34.17,5
+121600,Mérida,Mérida - Municipio Rangel,Alexis Ramírez (GPP),Adjudicado,3489,54.54,Lester Rodríguez (MUD),No adjudicado,2155,33.68,5
+121700,Mérida,Mérida - Municipio Rivas Davila,Alexis Ramírez (GPP),Adjudicado,3514,55.30,Lester Rodríguez (MUD),No adjudicado,2273,35.77,5
+120900,Mérida,Mérida - Municipio Santos Marquina,Alexis Ramírez (GPP),Adjudicado,3684,59.84,Lester Rodríguez (MUD),No adjudicado,1910,31.02,5
+121800,Mérida,Mérida - Municipio Sucre,Alexis Ramírez (GPP),Adjudicado,10645,63.20,Lester Rodríguez (MUD),No adjudicado,4384,26.02,6
+121900,Mérida,Mérida - Municipio Tovar,Alexis Ramírez (GPP),Adjudicado,6170,44.92,Lester Rodríguez (MUD),No adjudicado,5395,39.28,4
+122000,Mérida,Mérida - Municipio Tulio F Cordero,Alexis Ramírez (GPP),Adjudicado,6283,61.16,Lester Rodríguez (MUD),No adjudicado,2871,27.94,6
+122300,Mérida,Mérida - Municipio Zea,Lester Rodríguez (MUD),No adjudicado,2012,45.67,Alexis Ramírez (GPP),Adjudicado,1904,43.22,4
+121400,Mérida,Mérida - Municipio Cardenal Quintero,Alexis Ramírez (GPP),Adjudicado,2403,68.77,Lester Rodríguez (MUD),No adjudicado,871,24.92,6
+120600,Mérida,Mérida - Municipio Julio César Salas,Alexis Ramírez (GPP),Adjudicado,3215,58.39,Lester Rodríguez (MUD),No adjudicado,1734,31.49,5
+121200,Mérida,Mérida - Municipio Ramos de Lora,Alexis Ramírez (GPP),Adjudicado,6382,62.47,Lester Rodríguez (MUD),No adjudicado,2649,25.92,6
+140700,Monagas,Monagas - Municipio Maturín,Yelitze Santaella (GPP),Adjudicado,93202,53.45,José Briceño (MUD),No adjudicado,74454,42.69,5
+140100,Monagas,Monagas - Municipio Acosta,José Briceño (MUD),No adjudicado,4523,56.29,Yelitze Santaella (GPP),Adjudicado,3418,42.53,5
+141100,Monagas,Monagas - Municipio Aguasay,Yelitze Santaella (GPP),Adjudicado,3804,71.24,José Briceño (MUD),No adjudicado,1329,24.89,7
+140200,Monagas,Monagas - Municipio Bolívar,Yelitze Santaella (GPP),Adjudicado,7634,62.94,José Briceño (MUD),No adjudicado,4029,33.21,6
+140300,Monagas,Monagas - Municipio Caripe,Yelitze Santaella (GPP),Adjudicado,6932,58.69,José Briceño (MUD),No adjudicado,4590,38.86,5
+140400,Monagas,Monagas - Municipio Cedeño,José Briceño (MUD),No adjudicado,10994,65.04,Yelitze Santaella (GPP),Adjudicado,5793,34.27,6
+140500,Monagas,Monagas - Municipio Ezequiel Zamora,Yelitze Santaella (GPP),Adjudicado,12279,53.09,José Briceño (MUD),No adjudicado,10314,44.59,5
+140600,Monagas,Monagas - Municipio Libertador,Yelitze Santaella (GPP),Adjudicado,9612,72.92,José Briceño (MUD),No adjudicado,3128,23.73,7
+140800,Monagas,Monagas - Municipio Piar,Yelitze Santaella (GPP),Adjudicado,9395,63.43,José Briceño (MUD),No adjudicado,5095,34.40,6
+140900,Monagas,Monagas - Municipio Punceres,Yelitze Santaella (GPP),Adjudicado,6061,57.55,José Briceño (MUD),No adjudicado,4243,40.29,5
+141200,Monagas,Monagas - Municipio Santa Barbara,Yelitze Santaella (GPP),Adjudicado,2265,52.43,José Briceño (MUD),No adjudicado,1910,44.21,5
+141000,Monagas,Monagas - Municipio Sotillo,Yelitze Santaella (GPP),Adjudicado,5802,82.47,José Briceño (MUD),No adjudicado,1119,15.90,8
+141300,Monagas,Monagas - Municipio Uracoa,Yelitze Santaella (GPP),Adjudicado,2335,55.62,José Briceño (MUD),No adjudicado,1773,42.23,5
+150100,Nueva Esparta,Nueva Esparta - Municipio Arismendi,Morel Rodríguez (MUD),No adjudicado,7349,53.79,Carlos Mata Figueroa (GPP),Adjudicado,6276,45.93,4
+150200,Nueva Esparta,Nueva Esparta - Municipio Díaz,Carlos Mata Figueroa (GPP),Adjudicado,14402,60.02,Morel Rodríguez (MUD),No adjudicado,9551,39.80,6
+151100,Nueva Esparta,Nueva Esparta - Municipio García,Carlos Mata Figueroa (GPP),Adjudicado,13800,61.26,Morel Rodríguez (MUD),No adjudicado,8680,38.53,6
+150300,Nueva Esparta,Nueva Esparta - Municipio Gómez,Carlos Mata Figueroa (GPP),Adjudicado,10013,59.06,Morel Rodríguez (MUD),No adjudicado,6900,40.70,5
+150400,Nueva Esparta,Nueva Esparta - Municipio Maneiro,Morel Rodríguez (MUD),No adjudicado,13756,63.26,Carlos Mata Figueroa (GPP),Adjudicado,7902,36.34,3
+150500,Nueva Esparta,Nueva Esparta - Municipio Marcano,Carlos Mata Figueroa (GPP),Adjudicado,10046,60.71,Morel Rodríguez (MUD),No adjudicado,6474,39.12,6
+150600,Nueva Esparta,Nueva Esparta - Municipio Mariño,Carlos Mata Figueroa (GPP),Adjudicado,23208,51.08,Morel Rodríguez (MUD),No adjudicado,22085,48.61,5
+150900,Nueva Esparta,Nueva Esparta - Municipio Tubores,Carlos Mata Figueroa (GPP),Adjudicado,8018,57.10,Morel Rodríguez (MUD),No adjudicado,6012,42.82,5
+151000,Nueva Esparta,Nueva Esparta - Municipio Antolín del Campo,Carlos Mata Figueroa (GPP),Adjudicado,7713,56.87,Morel Rodríguez (MUD),No adjudicado,5831,42.99,5
+150700,Nueva Esparta,Nueva Esparta - Municipio Península de Macanao,Carlos Mata Figueroa (GPP),Adjudicado,6766,58.88,Morel Rodríguez (MUD),No adjudicado,4719,41.06,5
+150800,Nueva Esparta,Nueva Esparta - Municipio Villalba,Carlos Mata Figueroa (GPP),Adjudicado,2838,53.04,Morel Rodríguez (MUD),No adjudicado,2511,46.93,5
+160300,Portuguesa,Portuguesa - Municipio Guanare,Wilmar Castro (GPP),Adjudicado,24330,45.41 ,Oswaldo Zerpa (PCV),No adjudicado,16539,30.87,4
+161000,Portuguesa,Portuguesa - Municipio Agua Blanca,Wilmar Castro (GPP),Adjudicado,5444,72.31 ,Oswaldo Zerpa (PCV),No adjudicado,1323,17.57,7
+160100,Portuguesa,Portuguesa - Municipio Araure,Wilmar Castro (GPP),Adjudicado,19715,55.10 ,Iván (MUD),No adjudicado,8916,24.91,5
+160200,Portuguesa,Portuguesa - Municipio Esteller,Wilmar Castro (GPP),Adjudicado,8019,62.21 ,Iván (MUD),No adjudicado,2454,19.03,6
+160400,Portuguesa,Portuguesa - Municipio Guanarito,Wilmar Castro (GPP),Adjudicado,5226,54.32 ,Oswaldo Zerpa (PCV),No adjudicado,2455,25.51,5
+160900,Portuguesa,Portuguesa - Municipio José Vicente de Unda,Oswaldo Zerpa (PCV),No adjudicado,6295,68.18 ,Wilmar Castro (GPP),Adjudicado,2118,22.94,2
+160500,Portuguesa,Portuguesa - Municipio Ospino,Wilmar Castro (GPP),Adjudicado,7444,53.45 ,Oswaldo Zerpa (PCV),No adjudicado,4514,32.41,5
+160600,Portuguesa,Portuguesa - Municipio Páez,Wilmar Castro (GPP),Adjudicado,26550,58.44 ,Iván (MUD),No adjudicado,11463,25.23,5
+161100,Portuguesa,Portuguesa - Municipio Papelón,Wilmar Castro (GPP),Adjudicado,3138,63.72 ,Oswaldo Zerpa (PCV),No adjudicado,945,19.19,6
+161400,Portuguesa,Portuguesa - Municipio Santa Rosalía,Wilmar Castro (GPP),Adjudicado,4310,69.57 ,Oswaldo Zerpa (PCV),No adjudicado,1122,18.11,6
+161700,Portuguesa,Portuguesa - Municipio Sucre,Wilmar Castro (GPP),Adjudicado,7627,49.21 ,Oswaldo Zerpa (PCV),No adjudicado,5029,32.45,4
+160800,Portuguesa,Portuguesa - Municipio Turen,Wilmar Castro (GPP),Adjudicado,9697,55.85 ,Iván (MUD),No adjudicado,4602,26.50,5
+161200,Portuguesa,Portuguesa - Municipio Genaro Boconoito,Wilmar Castro (GPP),Adjudicado,4518,63.59 ,Oswaldo Zerpa (PCV),No adjudicado,1760,24.77,6
+161300,Portuguesa,Portuguesa - Municipio Rafael de Onoto,Wilmar Castro (GPP),Adjudicado,3231,60.99 ,Oswaldo Zerpa (PCV),No adjudicado,1219,23.01,6
+170900,Sucre,Sucre - Municipio Sucre,Luis Acuña (GPP),Adjudicado,51285,48.92,Hernán Núñez (MUD),No adjudicado,44549,42.49,4
+171100,Sucre,Sucre - Municipio Andrés Blanco,Luis Acuña (GPP),Adjudicado,4323,61.50,Hernán Núñez (MUD),No adjudicado,2632,37.44,6
+171300,Sucre,Sucre - Municipio Andrés Mata,Luis Acuña (GPP),Adjudicado,4991,67.88,Hernán Núñez (MUD),No adjudicado,2312,31.44,6
+170100,Sucre,Sucre - Municipio Arismendi,Luis Acuña (GPP),Adjudicado,9929,69.42,Hernán Núñez (MUD),No adjudicado,4220,29.50,6
+170200,Sucre,Sucre - Municipio Benítez,Luis Acuña (GPP),Adjudicado,6958,70.29,Hernán Núñez (MUD),No adjudicado,2892,29.21,7
+170300,Sucre,Sucre - Municipio Bermúdez,Luis Acuña (GPP),Adjudicado,29087,62.88,Hernán Núñez (MUD),No adjudicado,14603,35.19,6
+171400,Sucre,Sucre - Municipio Bolívar,Luis Acuña (GPP),Adjudicado,3102,51.01,Hernán Núñez (MUD),No adjudicado,2686,44.17,5
+170400,Sucre,Sucre - Municipio Cajigal,Luis Acuña (GPP),Adjudicado,4877,75.75,Hernán Núñez (MUD),No adjudicado,1496,23.23,7
+171500,Sucre,Sucre - Municipio Cruz S Acosta,Luis Acuña (GPP),Adjudicado,6762,64.77,Hernán Núñez (MUD),No adjudicado,3117,29.85,6
+171200,Sucre,Sucre - Municipio Libertador,Luis Acuña (GPP),Adjudicado,2485,67.71,Hernán Núñez (MUD),No adjudicado,1150,31.33,6
+170500,Sucre,Sucre - Municipio Mariño,Luis Acuña (GPP),Adjudicado,4350,69.22,Hernán Núñez (MUD),No adjudicado,1871,29.77,6
+170600,Sucre,Sucre - Municipio Mejía,Luis Acuña (GPP),Adjudicado,3516,63.07,Hernán Núñez (MUD),No adjudicado,1924,34.51,6
+170700,Sucre,Sucre - Municipio Montes,Luis Acuña (GPP),Adjudicado,12157,74.63,Hernán Núñez (MUD),No adjudicado,3959,24.30,7
+170800,Sucre,Sucre - Municipio Ribero,Luis Acuña (GPP),Adjudicado,9815,68.32,Hernán Núñez (MUD),No adjudicado,4348,30.26,6
+171000,Sucre,Sucre - Municipio Valdez,Luis Acuña (GPP),Adjudicado,6707,74.11,Hernán Núñez (MUD),No adjudicado,2110,23.31,7
+180800,Táchira,Táchira - Municipio San Cristóbal,César Pérez Vivas (MUD),No adjudicado,73220,58.65,José Vielma Mora (GPP),Adjudicado,50443,40.40,4
+181800,Táchira,Táchira - Municipio Andrés Bello,José Vielma Mora (GPP),Adjudicado,5424,53.63,César Pérez Vivas (MUD),No adjudicado,4661,46.09,7
+182300,Táchira,Táchira - Municipio Antonio Rómulo,José Vielma Mora (GPP),Adjudicado,3598,79.39,César Pérez Vivas (MUD),No adjudicado,931,20.54,5
+180100,Táchira,Táchira - Municipio Ayacucho,José Vielma Mora (GPP),Adjudicado,12023,56.66,César Pérez Vivas (MUD),No adjudicado,9138,43.06,5
+180200,Táchira,Táchira - Municipio Bolívar,José Vielma Mora (GPP),Adjudicado,10154,54.05,César Pérez Vivas (MUD),No adjudicado,8550,45.51,5
+180400,Táchira,Táchira - Municipio Cárdenas,José Vielma Mora (GPP),Adjudicado,20776,50.66,César Pérez Vivas (MUD),No adjudicado,19986,48.73,5
+181000,Táchira,Táchira - Municipio Córdoba,José Vielma Mora (GPP),Adjudicado,6934,57.23,César Pérez Vivas (MUD),No adjudicado,5138,42.40,5
+182400,Táchira,Táchira - Municipio Francisco de Miranda,César Pérez Vivas (MUD),No adjudicado,1557,58.73,José Vielma Mora (GPP),Adjudicado,1092,41.19,4
+181900,Táchira,Táchira - Municipio Fernández Feo,José Vielma Mora (GPP),Adjudicado,9263,62.92,César Pérez Vivas (MUD),No adjudicado,5428,36.87,6
+181100,Táchira,Táchira - Municipio García de Hevia,José Vielma Mora (GPP),Adjudicado,13595,74.87,César Pérez Vivas (MUD),No adjudicado,4479,24.66,7
+181200,Táchira,Táchira - Municipio Guasimos,José Vielma Mora (GPP),Adjudicado,8962,52.91,César Pérez Vivas (MUD),No adjudicado,7931,46.82,5
+180300,Táchira,Táchira - Municipio Independencia,José Vielma Mora (GPP),Adjudicado,8206,58.66,César Pérez Vivas (MUD),No adjudicado,5723,40.91,5
+180500,Táchira,Táchira - Municipio Jauregui,José Vielma Mora (GPP),Adjudicado,8400,59.37,César Pérez Vivas (MUD),No adjudicado,5710,40.35,5
+182500,Táchira,Táchira - Municipio José María Vargas,José Vielma Mora (GPP),Adjudicado,3082,69.79,César Pérez Vivas (MUD),No adjudicado,1331,30.14,6
+180600,Táchira,Táchira - Municipio Junín,José Vielma Mora (GPP),Adjudicado,19717,56.25,César Pérez Vivas (MUD),No adjudicado,15249,43.50,5
+182000,Táchira,Táchira - Municipio Libertad,José Vielma Mora (GPP),Adjudicado,6776,63.79,César Pérez Vivas (MUD),No adjudicado,3825,36.01,6
+181400,Táchira,Táchira - Municipio Libertador,José Vielma Mora (GPP),Adjudicado,5296,60.22,César Pérez Vivas (MUD),No adjudicado,3482,39.59,6
+180700,Táchira,Táchira - Municipio Lobatera,José Vielma Mora (GPP),Adjudicado,4196,67.01,César Pérez Vivas (MUD),No adjudicado,2044,32.64,6
+181300,Táchira,Táchira - Municipio Michelena,José Vielma Mora (GPP),Adjudicado,4830,57.83,César Pérez Vivas (MUD),No adjudicado,3491,41.79,5
+181500,Táchira,Táchira - Municipio Panamericano,José Vielma Mora (GPP),Adjudicado,6368,62.73,César Pérez Vivas (MUD),No adjudicado,3744,36.88,6
+182600,Táchira,Táchira - Municipio Rafael Urdaneta,José Vielma Mora (GPP),Adjudicado,2190,68.26,César Pérez Vivas (MUD),No adjudicado,1015,31.63,6
+182100,Táchira,Táchira - Municipio Samuel Maldonado,José Vielma Mora (GPP),Adjudicado,4300,61.92,César Pérez Vivas (MUD),No adjudicado,2642,38.04,6
+182900,Táchira,Táchira - Municipio San Judas Tadeo,José Vielma Mora (GPP),Adjudicado,3356,74.69,César Pérez Vivas (MUD),No adjudicado,1133,25.21,7
+182200,Táchira,Táchira - Municipio Seboruco,José Vielma Mora (GPP),Adjudicado,2825,61.41,César Pérez Vivas (MUD),No adjudicado,1750,38.04,6
+182700,Táchira,Táchira - Municipio Simón Rodríguez,César Pérez Vivas (MUD),No adjudicado,907,52.94,José Vielma Mora (GPP),Adjudicado,805,46.99,4
+181700,Táchira,Táchira - Municipio Sucre,José Vielma Mora (GPP),Adjudicado,2903,66.06,César Pérez Vivas (MUD),No adjudicado,1487,33.84,6
+182800,Táchira,Táchira - Municipio Torbes,José Vielma Mora (GPP),Adjudicado,9300,62.36,César Pérez Vivas (MUD),No adjudicado,5500,36.88,6
+180900,Táchira,Táchira - Municipio Uribante,José Vielma Mora (GPP),Adjudicado,5319,60.06,César Pérez Vivas (MUD),No adjudicado,3526,39.81,6
+181600,Táchira,Táchira - Municipio Pedro María Ureña,José Vielma Mora (GPP),Adjudicado,8655,58.85,César Pérez Vivas (MUD),No adjudicado,5990,40.73,5
+190500,Trujillo,Trujillo - Municipio Trujillo,Henry Rangel Silva (GPP),Adjudicado,16583,81.52,José Hernández (MUD),No adjudicado,3630,17.84,8
+191500,Trujillo,Trujillo - Municipio Andrés Bello,Henry Rangel Silva (GPP),Adjudicado,4412,89.29,José Hernández (MUD),No adjudicado,526,10.64,8
+190200,Trujillo,Trujillo - Municipio Boconó,Henry Rangel Silva (GPP),Adjudicado,21318,83.82,José Hernández (MUD),No adjudicado,4041,15.88,8
+191600,Trujillo,Trujillo - Municipio Bolívar,Henry Rangel Silva (GPP),Adjudicado,4371,91.10,José Hernández (MUD),No adjudicado,418,8.71,9
+190300,Trujillo,Trujillo - Municipio Carache,Henry Rangel Silva (GPP),Adjudicado,8497,89.71,José Hernández (MUD),No adjudicado,961,10.14,8
+190400,Trujillo,Trujillo - Municipio Escuque,Henry Rangel Silva (GPP),Adjudicado,7498,80.32,José Hernández (MUD),No adjudicado,1759,18.84,8
+191700,Trujillo,Trujillo - Municipio José Francisco Márquez Cañizal,Henry Rangel Silva (GPP),Adjudicado,1452,60.09,José Hernández (MUD),No adjudicado,960,39.73,6
+191800,Trujillo,Trujillo - Municipio Juan Campo Elías,Henry Rangel Silva (GPP),Adjudicado,2496,90.33,José Hernández (MUD),No adjudicado,265,9.59,9
+191900,Trujillo,Trujillo - Municipio La Ceiba,Henry Rangel Silva (GPP),Adjudicado,5684,93.61,José Hernández (MUD),No adjudicado,386,6.35,9
+190900,Trujillo,Trujillo - Municipio Miranda,Henry Rangel Silva (GPP),Adjudicado,5609,88.37,José Hernández (MUD),No adjudicado,733,11.54,8
+191000,Trujillo,Trujillo - Municipio Monte Carmelo,Henry Rangel Silva (GPP),Adjudicado,4587,92.07,José Hernández (MUD),No adjudicado,372,7.46,9
+191100,Trujillo,Trujillo - Municipio Motatan,Henry Rangel Silva (GPP),Adjudicado,6158,88.61,José Hernández (MUD),No adjudicado,779,11.21,8
+191200,Trujillo,Trujillo - Municipio Pampan,Henry Rangel Silva (GPP),Adjudicado,13180,85.94,José Hernández (MUD),No adjudicado,2072,13.51,8
+192000,Trujillo,Trujillo - Municipio Pampanito,Henry Rangel Silva (GPP),Adjudicado,7863,88.14,José Hernández (MUD),No adjudicado,1016,11.38,8
+190100,Trujillo,Trujillo - Municipio Rafael Rangel,Henry Rangel Silva (GPP),Adjudicado,5442,77.83,José Hernández (MUD),No adjudicado,1526,21.82,7
+191400,Trujillo,Trujillo - Municipio Sucre,Henry Rangel Silva (GPP),Adjudicado,6535,83.17,José Hernández (MUD),No adjudicado,1287,16.38,8
+190600,Trujillo,Trujillo - Municipio Urdaneta,Henry Rangel Silva (GPP),Adjudicado,9849,90.25,José Hernández (MUD),No adjudicado,1058,9.69,9
+190700,Trujillo,Trujillo - Municipio Valera,Henry Rangel Silva (GPP),Adjudicado,31268,71.01,José Hernández (MUD),No adjudicado,12441,28.25,7
+191300,Trujillo,Trujillo - Municipio Rafael Carvajal,Henry Rangel Silva (GPP),Adjudicado,12300,77.68,José Hernández (MUD),No adjudicado,1526,21.82,7
+190800,Trujillo,Trujillo - Municipio Candelaria,Henry Rangel Silva (GPP),Adjudicado,8351,91.03,José Hernández (MUD),No adjudicado,810,8.83,9
+240100,Vargas,Vargas - Municipio Vargas,Jorge García Carneiro (GPP),Adjudicado,77476,73.44,José Manuel Olivares (MUD),No adjudicado,26518,25.13,7
+200400,Yaracuy,Yaracuy - Municipio San Felipe,Julio León (GPP),Adjudicado,18569,52.41,Biagio Pilieri (MUD),No adjudicado,16445,46.42,5
+201200,Yaracuy,Yaracuy - Municipio Arístides Bastidas,Julio León (GPP),Adjudicado,5296,67.63,Biagio Pilieri (MUD),No adjudicado,2499,31.91,6
+200100,Yaracuy,Yaracuy - Municipio Bolívar,Julio León (GPP),Adjudicado,8065,74.96,Biagio Pilieri (MUD),No adjudicado,2665,24.76,7
+200200,Yaracuy,Yaracuy - Municipio Bruzual,Julio León (GPP),Adjudicado,13105,50.52,Biagio Pilieri (MUD),No adjudicado,12717,49.03,5
+201000,Yaracuy,Yaracuy - Municipio Cocorote,Julio León (GPP),Adjudicado,6946,53.57,Biagio Pilieri (MUD),No adjudicado,5882,45.37,5
+201100,Yaracuy,Yaracuy - Municipio Independencia,Julio León (GPP),Adjudicado,10447,50.84,Biagio Pilieri (MUD),No adjudicado,9817,47.78,5
+200900,Yaracuy,Yaracuy - Municipio La Trinidad,Julio León (GPP),Adjudicado,4401,59.20,Biagio Pilieri (MUD),No adjudicado,3014,40.54,5
+201300,Yaracuy,Yaracuy - Municipio Manuel Monge,Julio León (GPP),Adjudicado,5288,77.43,Biagio Pilieri (MUD),No adjudicado,1528,22.37,7
+200300,Yaracuy,Yaracuy - Municipio Nirgua,Julio León (GPP),Adjudicado,12948,73.78,Biagio Pilieri (MUD),No adjudicado,4511,25.70,7
+200700,Yaracuy,Yaracuy - Municipio Peña,Julio León (GPP),Adjudicado,19109,66.62,Biagio Pilieri (MUD),No adjudicado,9407,32.79,6
+200500,Yaracuy,Yaracuy - Municipio Sucre,Julio León (GPP),Adjudicado,5062,61.51,Biagio Pilieri (MUD),No adjudicado,3000,36.45,6
+200600,Yaracuy,Yaracuy - Municipio Urachiche,Julio León (GPP),Adjudicado,5556,66.86,Biagio Pilieri (MUD),No adjudicado,2709,32.60,6
+201400,Yaracuy,Yaracuy - Municipio Veroes,Julio León (GPP),Adjudicado,7833,79.59,Biagio Pilieri (MUD),No adjudicado,1975,20.06,7
+200800,Yaracuy,Yaracuy - Municipio José Antonio Paez,Julio León (GPP),Adjudicado,4708,69.42,Biagio Pilieri (MUD),No adjudicado,2048,30.20,6
+210500,Zulia,Zulia - Municipio Maracaibo,Árias Cárdenas (GPP),Adjudicado,759214,52.22,Pablo Pérez (MUD),No adjudicado,266125,46.48,5
+211700,Zulia,Zulia - Municipio Almirante Padilla,Árias Cárdenas (GPP),Adjudicado,4269,65.87,Pablo Pérez (MUD),No adjudicado,2209,34.08,6
+210100,Zulia,Zulia - Municipio Baralt,Árias Cárdenas (GPP),Adjudicado,20061,58.73,Pablo Pérez (MUD),No adjudicado,14072,41.19,5
+210700,Zulia,Zulia - Municipio Guajira,Árias Cárdenas (GPP),Adjudicado,19132,69.50,Pablo Pérez (MUD),No adjudicado,8386,30.46,6
+211400,Zulia,Zulia - Municipio Cabimas,Árias Cárdenas (GPP),Adjudicado,61549,50.51,Pablo Pérez (MUD),No adjudicado,60185,49.39,5
+211200,Zulia,Zulia - Municipio Catatumbo,Árias Cárdenas (GPP),Adjudicado,6618,51.06,Pablo Pérez (MUD),No adjudicado,6342,48.93,5
+210300,Zulia,Zulia - Municipio Colón,Árias Cárdenas (GPP),Adjudicado,24225,54.96,Pablo Pérez (MUD),No adjudicado,19827,44.98,5
+211200,Zulia,Zulia - Municipio Francisco Pulg,Pablo Pérez (MUD),No adjudicado,6337,51.72,Árias Cárdenas (GPP),Adjudicado,5913,48.26,4
+211600,Zulia,Zulia - Municipio Jesús Lossada,Árias Cárdenas (GPP),Adjudicado,21081,53.61,Pablo Pérez (MUD),No adjudicado,18224,46.34,5
+211900,Zulia,Zulia - Municipio Jesús Semprun,Árias Cárdenas (GPP),Adjudicado,7342,72.02,Pablo Pérez (MUD),No adjudicado,2849,27.94,7
+211000,Zulia,Zulia - Municipio La Cañada de Urdaneta,Árias Cárdenas (GPP),Adjudicado,16018,50.33,Pablo Pérez (MUD),No adjudicado,15795,49.63,5
+211100,Zulia,Zulia - Municipio Lagunillas,Pablo Pérez (MUD),No adjudicado,39510,53.25,Árias Cárdenas (GPP),Adjudicado,36447,46.47,4
+210800,Zulia,Zulia - Municipio Machiques de Perijá,Árias Cárdenas (GPP),Adjudicado,23330,52.26,Pablo Pérez (MUD),No adjudicado,21245,47.59,5
+210400,Zulia,Zulia - Municipio Mara,Árias Cárdenas (GPP),Adjudicado,53780,69.18,Pablo Pérez (MUD),No adjudicado,23922,30.77,6
+210600,Zulia,Zulia - Municipio Miranda,Árias Cárdenas (GPP),Adjudicado,28964,62.53,Pablo Pérez (MUD),No adjudicado,17323,37.40,6
+211800,Zulia,Zulia - Municipio San Francisco,Árias Cárdenas (GPP),Adjudicado,98555,57.67,Pablo Pérez (MUD),No adjudicado,72212,42.26,5
+210200,Zulia,Zulia - Municipio Santa Rita,Árias Cárdenas (GPP),Adjudicado,13934,51.40,Pablo Pérez (MUD),No adjudicado,13157,48.53,5
+212100,Zulia,Zulia - Municipio Simón Bolívar,Pablo Pérez (MUD),No adjudicado,9969,50.41,Árias Cárdenas (GPP),Adjudicado,9790,49.50,4
+210900,Zulia,Zulia - Municipio Sucre,Árias Cárdenas (GPP),Adjudicado,13390,60.43,Pablo Pérez (MUD),No adjudicado,8749,39.48,6
+211300,Zulia,Zulia - Municipio Rosario de Perijá,Árias Cárdenas (GPP),Adjudicado,19260,54.88,Pablo Pérez (MUD),No adjudicado,15820,45.08,5
+211500,Zulia,Zulia - Municipio Valmore Rodriguez,Árias Cárdenas (GPP),Adjudicado,11401,50.15,Pablo Pérez (MUD),No adjudicado,11310,49.75,5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
