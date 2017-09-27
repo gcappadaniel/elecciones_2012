@@ -1,93 +1,55 @@
-﻿<!DOCTYPE html>
-<meta charset="utf-8">
-<style>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Elecciones regionales 2012</title>
 
-.links line {
-  stroke: #999;
-  stroke-opacity: 0.6;
-}
+    <!-- CSS libraries -->
+    <link href="http://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css" rel="stylesheet" type="text/css">
 
-.nodes circle {
-  stroke: #fff;
-  stroke-width: 1.5px;
-}
+    <!-- Custom CSS styles -->
+    <link href="style.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <h3 class="nine columns">Elecciones regionales 2012</h3>
+      </div>
+      <div id="map"><!-- Map container --></div>
+      <div id="legend"><!-- Legend container --></div>
 
-</style>
-<svg width="960" height="600"></svg>
-<script src="https://d3js.org/d3.v4.min.js"></script>
-<script>
+      <div id="details" class="hidden row"><!-- Details container --></div>
+      <div class="footer">
+        <strong>Fuente:</strong>: datos del Consejo Nacional Electoral <a href="http://www.cne.gob.ve/" target="_blank">CNE</a>
+      </div>
+    </div>
 
-var svg = d3.select("svg"),
-    width = +svg.attr("width"),
-    height = +svg.attr("height");
+    <!-- Mustache template, rendered later to show the details of a feature -->
+    <script id="template" type="x-tmpl-mustache">
+      <h3 class="six columns">{{ municipio }}</h3>
+      <table class="five columns">
+        <tr>
+          <th>1.</th>
+          <td>{{ candidato_1 }}</td>
+          <td>{{ votos_1 }} votos</td>
+          <td>{{ %_1 }}%</td>
+          <td>{{ adjudicado_1 }}</td>
+        </tr>
+        <tr>
+          <th>2.</th>
+          <td>{{ candidato_2 }}</td>
+          <td>{{ votos_2 }} votos</td>
+          <td>{{ %_2 }}%</td>
+          <td>{{ adjudicado_2 }}</td>
+        </tr>
+      </table>
+    </script>
 
-var color = d3.scaleOrdinal(d3.schemeCategory20);
+    <!-- JS libraries -->
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.2.1/mustache.min.js"></script>
 
-var simulation = d3.forceSimulation()
-    .force("link", d3.forceLink().id(function(d) { return d.id; }))
-    .force("charge", d3.forceManyBody())
-    .force("center", d3.forceCenter(width / 2, height / 2));
-
-d3.json("miserables.json", function(error, graph) {
-  if (error) throw error;
-
-  var link = svg.append("g")
-      .attr("class", "links")
-    .selectAll("line")
-    .data(graph.links)
-    .enter().append("line")
-      .attr("stroke-width", function(d) { return Math.sqrt(d.value); });
-
-  var node = svg.append("g")
-      .attr("class", "nodes")
-    .selectAll("circle")
-    .data(graph.nodes)
-    .enter().append("circle")
-      .attr("r", 5)
-      .attr("fill", function(d) { return color(d.group); })
-      .call(d3.drag()
-          .on("start", dragstarted)
-          .on("drag", dragged)
-          .on("end", dragended));
-
-  node.append("title")
-      .text(function(d) { return d.id; });
-
-  simulation
-      .nodes(graph.nodes)
-      .on("tick", ticked);
-
-  simulation.force("link")
-      .links(graph.links);
-
-  function ticked() {
-    link
-        .attr("x1", function(d) { return d.source.x; })
-        .attr("y1", function(d) { return d.source.y; })
-        .attr("x2", function(d) { return d.target.x; })
-        .attr("y2", function(d) { return d.target.y; });
-
-    node
-        .attr("cx", function(d) { return d.x; })
-        .attr("cy", function(d) { return d.y; });
-  }
-});
-
-function dragstarted(d) {
-  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
-  d.fx = d.x;
-  d.fy = d.y;
-}
-
-function dragged(d) {
-  d.fx = d3.event.x;
-  d.fy = d3.event.y;
-}
-
-function dragended(d) {
-  if (!d3.event.active) simulation.alphaTarget(0);
-  d.fx = null;
-  d.fy = null;
-}
-
-</script>
+    <!-- Custom JS code -->
+    <script src="map.js"></script>
+  </body>
+</html>
